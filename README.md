@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi I'm Jide!
+
+I'm a data analyst trained by C-Quest IT Hub with a background in physics - now building great projects in Excel and Power BI 
+
+## Tools I work with
+- Microsoft Excel
+- Power BI
+
+## My Projects
+-[Sales-Performance-Analysis](...)
+
+
 
 <!--
 **jidemartins14-lab/jidemartins14-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
