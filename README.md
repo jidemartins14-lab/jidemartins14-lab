@@ -7,7 +7,7 @@ I'm a data analyst trained by C-Quest IT Hub with a background in physics - now 
 - Power BI
 
 ## My Projects
--[Sales-Performance-Analysis](...)
+-[Sales-Performance-Analysis](https://github.com/jidemartins14-lab/Sales-performance-analysis)
 
 ## Currently Learning
 -Advanced SQL
