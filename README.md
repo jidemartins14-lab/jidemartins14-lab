@@ -9,11 +9,12 @@ I'm a data analyst trained by C-Quest IT Hub with a background in physics - now 
 ## My Projects
 -[Sales-Performance-Analysis](...)
 
-## Currently learning
+## Currently Learning
 -Advanced SQL
 -Python for Data Science
 
 ## Let's connect!
+[www.linkedin.com/in/olajide-martins-jegede-20076ba1]
 
 
 
