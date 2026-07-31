@@ -9,6 +9,13 @@ I'm a data analyst trained by C-Quest IT Hub with a background in physics - now 
 ## My Projects
 -[Sales-Performance-Analysis](...)
 
+## Currently learning
+-Advanced SQL
+-Python for Data Science
+
+## Let's connect!
+
+
 
 
 <!--
