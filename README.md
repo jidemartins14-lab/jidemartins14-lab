@@ -8,6 +8,7 @@ I'm a data analyst trained by C-Quest IT Hub with a background in physics - now 
 
 ## My Projects
 -[Sales-Performance-Analysis](https://github.com/jidemartins14-lab/Sales-performance-analysis)
+-[Fleet-Logistics-Performance-Analysis](https://github.com/jidemartins14-lab/Fleet-Logistics-Performance-Analysis)
 
 ## Currently Learning
 -Advanced SQL
